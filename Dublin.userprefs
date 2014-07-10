@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UpperSouthGreatGeorgesStreet.cs">
+    <Files>
+      <File FileName="Assets/CamdenStreet.cs" Line="9" Column="1" />
+      <File FileName="Assets/SouthRichmondSt.cs" Line="1" Column="1" />
+      <File FileName="Assets/WexfordStreet.cs" Line="1" Column="1" />
+      <File FileName="Assets/AungierStreet.cs" Line="10" Column="3" />
+      <File FileName="Assets/UpperSouthGreatGeorgesStreet.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
